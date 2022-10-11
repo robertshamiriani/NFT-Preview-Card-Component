@@ -1,7 +1,7 @@
 # NFT-Preview-Card-Component
 
 
-This is a solution to the [NFT-Preview-Card-Component]https://github.com/robertshamiriani/NFT-Preview-Card-Component).
+This is a solution to the [NFT-Preview-Card-Component](https://github.com/robertshamiriani/NFT-Preview-Card-Component).
 ## Table of contents
 
 - [Overview](#overview)
