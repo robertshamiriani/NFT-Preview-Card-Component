@@ -39,7 +39,7 @@ This is a solution to the [NFT-Preview-Card-Component](https://github.com/robert
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/robertshamiriani/NFT-Preview-Card-Component)
-- Live Site URL: [GitHub Page](https://robertshamiriani.github.io/QR-code-component/)
+- Live Site URL: [GitHub Page](https://robertshamiriani.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
