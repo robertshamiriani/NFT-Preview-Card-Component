@@ -29,7 +29,7 @@ This is a solution to the [NFT-Preview-Card-Component]https://github.com/roberts
 
 ### Screenshot
 
-![](./image/Screenshot_1.jpg)
+![](/image/Screenshot_1.jpg)
 
 
 
