@@ -20,9 +20,12 @@ This is a solution to the [NFT-Preview-Card-Component]https://github.com/roberts
 
 ### The challenge
 
+- Your challenge is to build out this preview card component and get it looking as close to the design as possible.
 -  challenges help you improve your coding skills by building realistic projects.
 - The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`
 - **To do this challenge, you need a basic understanding of HTML and CSS.**
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive element
 - You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 - Want some support on the challenge? [Join our BitCamp community](https://facebook.com/groups/bitcamp.ge/permalink/8389844074389186/) and ask questions.
 
