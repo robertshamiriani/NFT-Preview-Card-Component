@@ -108,15 +108,15 @@ body {
     background-color: #15263F;
     padding: 24px;
     border-radius: 15px;
-    font-family: Outfit;
+    font-family: 'Outfit';
     box-shadow: 0px 25px 50px;
-    /* cursor: none; */
+    
 }
 
 .cover {
     display: block;
     position: relative;
-    /* cursor: pointer; */
+    
     max-width: 100%;
     border-radius: 8px;
 }
